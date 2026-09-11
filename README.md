@@ -167,5 +167,5 @@ npm run typecheck
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
-  <sub>Built with precision for <b>295 Fitness Gym</b>. All rights reserved.</sub>
+  <sub>Built with precision by <a href="https://projuktisoft.com"><b>ProjuktiSoft</b></a> for <b>295 Fitness Gym</b>. All rights reserved.</sub>
 </div>

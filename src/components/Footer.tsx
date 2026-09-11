@@ -145,9 +145,14 @@ export function Footer() {
           </p>
           <p className="text-xs text-bone-dim">
             Powered by{' '}
-            <span className="text-bone-muted hover:text-accent transition-colors font-500">
+            <a
+              href="https://projuktisoft.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-bone-muted hover:text-accent underline-offset-4 hover:underline transition-colors font-500"
+            >
               ProjuktiSoft
-            </span>
+            </a>
           </p>
         </div>
       </div>
