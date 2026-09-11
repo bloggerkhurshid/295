@@ -144,7 +144,10 @@ export function Footer() {
             © {new Date().getFullYear()} 295 Fitness Gym. All rights reserved.
           </p>
           <p className="text-xs text-bone-dim">
-            Bangalipara, Bilasipara, Dhubri, Assam
+            Powered by{' '}
+            <span className="text-bone-muted hover:text-accent transition-colors font-500">
+              ProjuktiSoft
+            </span>
           </p>
         </div>
       </div>
